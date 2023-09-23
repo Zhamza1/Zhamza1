@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Web developer from France</h3>
 
-- 🔭 I’m currently working on **WEEXA**
+- 🔭 I’m currently working at **Uni-medias**
 
 - 👨‍💻 All of my projects are available at [SOON...](SOON...)
 
